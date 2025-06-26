@@ -7,7 +7,7 @@ url = "https://api.rentcast.io/v1/properties/random?limit=900"
 
 headers = {
     "accept": "application/json",
-    "X-Api-Key": "fab36e69bae842689d2c4599abdbb48b"
+    "X-Api-Key": "xxxxxxxxxxxxxxxxxxxx"
 }
 
 response = requests.get(url, headers=headers)
