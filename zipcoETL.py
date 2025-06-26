@@ -101,7 +101,7 @@ def get_db_connection():
         host = 'localhost',
         database='zipco_realestate',
         user='postgres',
-        password='datapsl2025@'
+        password='xxxxxxxxx'
     )
     return connection
 
